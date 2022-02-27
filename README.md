@@ -29,6 +29,15 @@ Optional arguments for maven command
 | cucumber.options  | all cucumber options                                  |-                                      | "-Dcucumber.options=-t @all"|
 | allure:serve      | Generates report and opens it in the default browser  |-                                      | allure:serve
 
+You can watch a browser in container 
+------------
+1. Open http://localhost:4444/ui/index.html#/ 
+2. Go to session tab 
+3. Password ``` secret ```
+
+Automation scripts did not launch on Linux platform!
+------------
+
 
 
 
